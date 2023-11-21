@@ -1,6 +1,7 @@
 # SuperZekes PvP Pack
 <!-- SVG version -->
-<img alt="adrenaline" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/adrenaline_vector.svg">
+<img alt="adrenaline" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/adrenaline_vector.svg"><!-- SVG version -->
+<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">
 
 This modpack is perfect for pvp use mods such as small totem pops are great so you can see more when your in battle look at some more <a href="https://modrinth.com/modpack/superzekes-pvp-pack/gallery">here</a>.
 
