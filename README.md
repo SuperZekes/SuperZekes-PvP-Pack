@@ -1,49 +1,14 @@
-# SuperZekes PvP Pack
-<!-- SVG version -->
-<img alt="adrenaline" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/adrenaline_vector.svg"><!-- SVG version -->
-<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">
+# SuperZekes's PvP Pack
 
-This modpack is perfect for pvp use mods such as small totem pops are great so you can see more when your in battle look at some more <a href="https://modrinth.com/modpack/superzekes-pvp/gallery">here</a>.
+<a href="https://modrinth.com/modpack/superzekes-pvp/"><img alt="github" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a>
 
-## Full list of mods
-- 3dskinlayers
-- appleskin
-- betterhurtcam
-- betterstats
-- cloth-config
-- Debugify
-- dynamic-fps
-- entityculling
-- essential
-- fabric-api
-- fabric-language-kotlin
-- ferritecore
-- ImmediatelyFast
-- indium
-- inventorymanagement
-- libIPN
-- lithium
-- modernfix
-- modmenu
-- morechathistory
-- moreculling
-- shulkerboxtooltip
-- simple-armor-hud
-- smallpop
-- sodium
-- threadtweak
-- totemcounter
-- ukulib
-- viafabricplus
-- visuality
-- simple voice chat
-- Xaeors_Minimap
-- XaerosWorldMap
-- yet-another-config-lib
-- yosbr
-- Zoomify
-- reeses_sodium_options
+This modpack is perfect for pvpers (am I saying that right?) mods such as small totem pops are great so you can see more when your in battle! and also another good one Essential Mod so you can host worlds to battle your friends and some QoL features as well. And ViaFabricPlus if your looking to play a server for an older version then simply join it and boom! This modpack works with all versions! look at some more <a href="https://modrinth.com/modpack/superzekes-pvp/gallery">here</a>. I made this pack because of my love to pvp I hope the mods in here help you while in battle!
+
+## Looking for a place to pvp?
+I would recommend <a href="https://pvplegacy.net/">PvP Legacy</a> if you want the best 1.9 pvp experience.
+
+I would highly recommend <a href="https://hypixel.net/">Hypixel</a> if your looking for a 1.8 pvp server
 
 ## Theres a version I want thats not there
 I am working on making this modpack available for more versions of mc.
-If theres a version you really want fork the repo on GitHub and make it yourself.
+If theres a version you really really want fork the repo on GitHub and make it yourself!
