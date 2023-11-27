@@ -10,5 +10,5 @@ I would recommend <a href="https://pvplegacy.net/">PvP Legacy</a> if you want th
 I would highly recommend <a href="https://hypixel.net/">Hypixel</a> if your looking for a 1.8 pvp server
 
 ## Theres a version I want thats not there
-I am working on making this modpack available for more versions of mc.
-If theres a version you really really want fork the repo on GitHub and make it yourself!
+As said above viafabricplus lets you join servers from any version.
+If theres a version you really really want for whatever reason fork the repo on GitHub and make it yourself!
