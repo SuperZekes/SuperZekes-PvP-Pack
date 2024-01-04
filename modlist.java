@@ -1,4 +1,4 @@
-BetterF3
+public void print(BetterF3
 Debugify
 ImmediatelyFast
 No Chat Reports
@@ -34,4 +34,4 @@ World Host
 YetAnotherConfigLib
 Crosshair TXF
 Default Dark Mode
-Fast Better Grass
+Fast Better Grass)
